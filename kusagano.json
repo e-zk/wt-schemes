@@ -1,0 +1,23 @@
+{
+  "name": "Kasugano",
+  "author": "Kori Ayakashi",
+  "black": "#3d3d3d",
+  "red": "#6673bf",
+  "green": "#3ea290",
+  "yellow": "#b0ead9",
+  "blue": "#31658c",
+  "purple": "#596196",
+  "cyan": "#8292b2",
+  "white": "#c8cacc",
+  "brightBlack": "#4d4d4d",
+  "brightRed": "#899aff",
+  "brightGreen": "#52ad91",
+  "brightYellow": "#98c9bb",
+  "brightBlue": "#477ab3",
+  "brightPurple": "#7882bf",
+  "brightCyan": "#95a7cc",
+  "brightWhite": "#edeff2"
+  "foreground": "#ffffff",
+  "background": "#1b1b1b"
+}
+
