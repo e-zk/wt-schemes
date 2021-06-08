@@ -1,0 +1,23 @@
+{
+    "name": "City Nights",
+    "background": "#000000",
+    "selectionBackground": "#B7C5D3",
+    "foreground": "#B7C5D3",
+    "cursorColor": "#DE935F",
+    "black": "#1D252C",
+    "brightBlack": "#232F3A",
+    "red": "#B62D65",
+    "brightRed": "#B62D65",
+    "green": "#00948B",
+    "brightGreen": "#00948B",
+    "yellow": "#DE935F",
+    "brightYellow": "#EBBF83",
+    "blue": "#1B4165",
+    "brightBlue": "#33495D",
+    "purple": "#7C1F45",
+    "brightPurple": "#9F3561",
+    "cyan": "#008B94",
+    "brightCyan": "#008B94",
+    "white": "#718CA1",
+    "brightWhite": "#B7C5D3"
+}
