@@ -1,4 +1,4 @@
 windows terminal schemes
 ========================
 
-misc. schemes and such
+misc. windows terminal schemes and themes and such
