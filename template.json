@@ -1,0 +1,25 @@
+// modified from:
+// lib/formats/windowsterminalpreview.dot
+// https://github.com/stayradiated/terminal.sexy/pull/62/commits/1e16805574a5b025220cbecd65de0b44733d81cb
+
+{
+    "background":   "{{c.background}}",
+    "foreground":   "{{c.foreground}}",
+    "black":        "{{c.0}}",
+    "brightBlack":  "{{c.8}}",
+    "red":          "{{c.1}}",
+    "brightRed":    "{{c.9}}",
+    "green":        "{{c.2}}",
+    "brightGreen":  "{{c.10}}",
+    "yellow":       "{{c.3}}"
+    "brightYellow": "{{c.11}}",
+    "blue":         "{{c.4}}",
+    "brightBlue":   "{{c.12}}",
+    "purple":       "{{c.5}}",
+    "brightPurple": "{{c.13}}",
+    "cyan":         "{{c.6}}",
+    "brightCyan":   "{{c.14}}",
+    "white":        "{{c.7}}",
+    "brightWhite":  "{{c.15}}",
+    "name":         "{{name}}",
+}
