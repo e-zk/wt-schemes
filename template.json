@@ -11,7 +11,7 @@
     "brightRed":    "{{c.9}}",
     "green":        "{{c.2}}",
     "brightGreen":  "{{c.10}}",
-    "yellow":       "{{c.3}}"
+    "yellow":       "{{c.3}}",
     "brightYellow": "{{c.11}}",
     "blue":         "{{c.4}}",
     "brightBlue":   "{{c.12}}",
